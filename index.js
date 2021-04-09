@@ -25,6 +25,6 @@ class CountdownTimer {
 }
 let test = new CountdownTimer({
     selector: '#timer-1',
-    targetDate: new Date('Apr 08, 2021, 17:58'),
+    targetDate: new Date('Apr 08, 2022, 17:58'),
 });
 test.time()
